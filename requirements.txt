@@ -1,0 +1,5 @@
+pandas~=1.5.3
+scikit-learn~=1.2.1
+torchvision~=0.15.0
+transformers~=4.24.0
+pillow~=9.4.0
